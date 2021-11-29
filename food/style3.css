@@ -1,0 +1,57 @@
+.one{
+    display: inline; font-size: 50px; color: white;
+    
+}
+.two{
+    color: yellow; font-size: 50px;
+}
+.three{
+    font-size: 50px; color: white;
+}
+p{
+    margin-left:50px ;
+    margin-top: 200px;
+}
+.v{
+    background-color: yellow;
+    color: black;
+    width: 60px;
+    margin-left:50px ;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.th{
+    transform: rotate(2);
+    color: white;
+}
+h1{
+    color: white;
+    margin-left: 50px;
+}
+.oe{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 50px;
+}
+.oe:hover{
+    text-decoration:  underline;
+
+}
+.yo{
+    padding: 12px; background-color: yellow;
+}
+.y{
+    background-color: black;  width: 23px; padding: 13px; padding-top: 20px;
+}
+.t{
+    width: 23px;padding: 13px;  background-color: black;padding-bottom: 460px;
+}
+.yt{
+    padding: 9px; background-color: yellow;
+}
+.et{
+    width: 150px;
+    margin-top: 250px;
+}
